@@ -1,3 +1,4 @@
+Enzyme	Target sequence	Cutting position(+ -> -)
 AanI	TTATAA	4
 AasI	GACNNNNNNGTC	8
 AatII	GACGTC	6
